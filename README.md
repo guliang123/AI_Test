@@ -16,4 +16,5 @@ https://www.cnblogs.com/xiaoming123abc/p/5342896.html
 https://www.cnblogs.com/WangYiqiang/p/12257671.html
 <h1>Python和Anoconda和Pycharm联合使用教程  <h1></br>
 https://www.cnblogs.com/WangYiqiang/p/12255850.html
-
+<h1>Python写的微服务如何融入Spring Cloud体系？  <h1></br>
+https://www.cnblogs.com/wudimanong/p/10943825.html

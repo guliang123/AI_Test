@@ -14,3 +14,6 @@ https://www.cnblogs.com/xiaoming123abc/p/5377800.html
 https://www.cnblogs.com/xiaoming123abc/p/5342896.html
 <h1>Anaconda使用教程全攻略 <h1></br>
 https://www.cnblogs.com/WangYiqiang/p/12257671.html
+<h1>Python和Anoconda和Pycharm联合使用教程  <h1></br>
+https://www.cnblogs.com/WangYiqiang/p/12255850.html
+

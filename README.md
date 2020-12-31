@@ -20,3 +20,26 @@ https://www.cnblogs.com/wudimanong/p/10943825.html
 https://blog.csdn.net/xqj198404/article/details/101110339
 <h1>SpringCloud-使用Sidecar支持异构平台的微服务 <h1></hr>
 https://blog.csdn.net/shenzhen_zsw/article/details/81009238
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>Bootstrap 实例 - 标签式的导航菜单</title>
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">  
+	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<p>标签式的导航菜单</p>
+<ul class="nav nav-tabs">
+	<li class="active"><a href="#">Home</a></li>
+	<li><a href="#">SVN</a></li>
+	<li><a href="#">iOS</a></li>
+	<li><a href="#">VB.Net</a></li>
+	<li><a href="#">Java</a></li>
+	<li><a href="#">PHP</a></li>
+</ul>
+
+</body>
+</html>

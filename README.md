@@ -18,3 +18,6 @@ https://www.cnblogs.com/WangYiqiang/p/12257671.html
 https://www.cnblogs.com/WangYiqiang/p/12255850.html
 <h1>Python写的微服务如何融入Spring Cloud体系？  <h1></br>
 https://www.cnblogs.com/wudimanong/p/10943825.html
+<h1>spring cloud sidecar 代理python的webapi服务  <h1></br>
+https://blog.csdn.net/xqj198404/article/details/101110339
+

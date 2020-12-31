@@ -12,3 +12,5 @@ https://www.cnblogs.com/xiaoming123abc/p/5396825.html
 https://www.cnblogs.com/xiaoming123abc/p/5377800.html
 <h1>神经网络的分类及其应用 <h1></br>
 https://www.cnblogs.com/xiaoming123abc/p/5342896.html
+<h1>Anaconda使用教程全攻略 <h1></br>
+https://www.cnblogs.com/WangYiqiang/p/12257671.html

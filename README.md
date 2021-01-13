@@ -26,3 +26,5 @@ https://blog.csdn.net/shenzhen_zsw/article/details/81009238
 https://www.bilibili.com/read/cv8132817/
 <h1>零基础学机器学习<h1></hr>
 https://blog.csdn.net/baidu_25854831/article/details/111771816
+<h1>Python图像处理实战<h1></hr>
+https://blog.csdn.net/epubit17/article/details/111556622

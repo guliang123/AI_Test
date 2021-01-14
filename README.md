@@ -27,3 +27,5 @@ https://www.bilibili.com/read/cv8132817/
 https://blog.csdn.net/baidu_25854831/article/details/111771816
 <h1>Python图像处理实战<h1></hr>
 https://blog.csdn.net/epubit17/article/details/111556622
+<h1>吴恩达给你的人工智能第一课<h1></hr>
+https://mooc.study.163.com/smartSpec/detail/1001319001.htm
